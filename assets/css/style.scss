@@ -1,0 +1,46 @@
+---
+---
+
+@import "minima";
+
+// Minimalist overrides — clean type, generous whitespace, muted accent
+:root {
+  --accent: #2f6f4f; // muted green, echoes GitHub without copying its exact brand color
+}
+
+body {
+  font-family: -apple-system, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.65;
+}
+
+.site-title {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+h1, h2, h3 {
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.15s ease;
+}
+
+a:hover {
+  border-bottom-color: var(--accent);
+}
+
+.page-content {
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #e5e5e5;
+  margin: 2.5rem 0;
+}
