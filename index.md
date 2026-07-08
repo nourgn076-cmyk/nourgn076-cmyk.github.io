@@ -23,4 +23,4 @@ Data Science & Business Intelligence student (EDC Paris Business School) working
 
 ## AI-use disclosure
 
-I use AI tools (GitHub Copilot, Claude) to accelerate drafting, testing, and documentation. Every line is reviewed and understood before it ships — see each repo's README for project-specific disclosure. *(Slide 21–22: name your tools, it's a credibility signal, not a weakness.)*
+I use AI tools (GitHub Copilot, Claude) to accelerate drafting, testing, and documentation. Every line is reviewed and understood before it ships — see each repo's README for project-specific disclosure.
