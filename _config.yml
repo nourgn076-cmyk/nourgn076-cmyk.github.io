@@ -1,14 +1,14 @@
-title: "Nour [Your Last Name]"
+title: "Nour Gnich"
 description: "Data Science & Business Intelligence · Marketing Analytics"
 theme: minima
 minima:
   skin: dark
 
 # Personalize these before you push
-author: "Nour [Your Last Name]"
-email: "your.email@example.com"
-linkedin: "https://linkedin.com/in/your-handle"
-github_username: "your-github-handle"
+author: "Nour Gnich"
+email: "nourgn076@gmail.com"
+linkedin: "https://www.linkedin.com/in/nourgnich"
+github_username: "nourgn076-cmyk"
 
 markdown: kramdown
 plugins:
