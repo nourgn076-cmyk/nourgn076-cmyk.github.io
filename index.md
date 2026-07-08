@@ -2,7 +2,7 @@
 layout: home
 title: Home
 ---
-
+<img src="/assets/profile.jpg" alt="Nour Gnich" width="160" style="border-radius: 50%; margin-bottom: 1.5rem;">
 # Hi, I'm Nour 👋
 
 Data Science & Business Intelligence student (EDC Paris Business School) working in Sales & Marketing analytics at Lynxeo Group. I turn messy data into decisions — forecasting, market sizing, and BI reporting for the wind energy sector.
